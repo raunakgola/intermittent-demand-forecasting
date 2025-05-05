@@ -71,8 +71,6 @@ A detailed report summarizing the methodology, findings, and insights is availab
 ## 📁 Project Structure
 
 ```
-├── data/
-│   └── online_retail_clean.csv
 ├── notebooks/
 │   └── croston_forecasting.ipynb
 ├── report/
